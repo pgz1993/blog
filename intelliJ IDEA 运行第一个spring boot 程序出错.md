@@ -34,7 +34,7 @@ create new project -> Spring Initializr -> 按默认设置一路 next;
 
 另：
 
-little snitch防火墙会显示 no code signature，没有细究，直接关了防火墙，等软件下载好了再打开即可。
+little snitch防火墙会显示 no code signature，点了allow之后还会继续弹框，没有细究，直接关了防火墙，等软件下载好了再打开即可。
 
 
 
