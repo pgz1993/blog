@@ -5,9 +5,11 @@
 
 create new project -> Spring Initializr -> 按默认设置一路 next;
 
-解决办法：
+问题：
 
 左侧Project一栏中打开pom.xml，提示 Failed xxx SpringFramework。
+
+解决办法：
 
 打开IDEA的perfence，搜索maven,User settings file 和 Local repository 勾选 Override。
 
