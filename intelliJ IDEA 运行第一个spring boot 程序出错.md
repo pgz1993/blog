@@ -7,7 +7,7 @@ create new project -> Spring Initializr -> 按默认设置一路 next;
 
 问题：
 
-左侧Project一栏中打开pom.xml，提示 Failed xxx SpringFramework。
+*左侧Project一栏中打开pom.xml，提示 Failed xxx SpringFramework。*
 
 解决办法：
 
